@@ -13,3 +13,8 @@ body{
     margin-bottom: 100px;
     margin-top: 50px;
 }
+/* ==========перебиваем класс bootstrap=========== */
+
+.btn{
+	border-radius: 0;
+}
